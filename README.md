@@ -291,5 +291,8 @@ http://www.slate.com/id/2144182/
 
 117. is the same true at break point 
 
-
-
+118. quantify the impact of the new atp 250 qualification draw rules (draw size reduced from 32 to 16, only two rounds need to be won, still 4 qualifiers into main draw)
+is it harder/easier now for youngsters to jump to atp level via qualies (see thiem 2014, kokkinakis 2015)?
+how often did players enter a quali-draw pre-2016 which would now not be able to compete (due to smaller draw size)? 
+how often did these players successfully qualify?
+how did they perform in the main draw (compared to the other qualifiers, which would have also entered the 16-draw size quali draws)?
